@@ -1,4 +1,4 @@
-# Hi, I'm Michał
+# Hi
 
 I'm a final-year Cybersecurity student at Wrocław University of Science and Technology. Right now I'm finishing my thesis on intrusion detection for the CAN bus: anomaly detection models running on a Raspberry Pi 5.
 
